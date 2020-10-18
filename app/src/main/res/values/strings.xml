@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">LiveGolYonetici</string>
+    <string name="Kanaladi">LivegolYont</string>
+    <string-array name="Katagoriler">
+        <item>Katagori Seç</item>
+        <item>Kasa Kuponu</item>
+        <item>Basketbol</item>
+        <item>Banko Kuponlar</item>
+        <item>Canli</item>
+        <item>Supriz</item>
+        <item>Ozel</item>
+    </string-array>
+    <string-array name="Ulkeler">
+        <item>Türkiye</item>
+        <item>İngiltere</item>
+        <item>İspanya</item>
+        <item>Almanya</item>
+        <item>İtalya</item>
+        <item>Fransa</item>
+        <item>Portekiz</item>
+        <item>Hollanda</item>
+        <item>Avusturya</item>
+        <item>Belçika</item>
+        <item>Brezilya</item>
+        <item>Arjantin</item>
+        <item>İsveç</item>
+        <item>Hindistan</item>
+        <item>Slovakya</item>
+        <item>Çek Cumhuriyeti</item>
+        <item>Norveç</item>
+        <item>Rusya</item>
+        <item>Amerika</item>
+        <item>Arnavutluk</item>
+        <item>Hırvatistan</item>
+        <item>İran</item>
+        <item>İsrail</item>
+        <item>Japonya</item>
+        <item>Kazakistan</item>
+        <item>Kore</item>
+        <item>UEFA-Avrupa</item>
+        <item>Sampiyonlar Ligi</item>
+        <item>Yunanistan</item>
+        <item>HongKong</item>
+        <item>Avusturalya</item>
+        <item>Meksika</item>
+        <item>Makedonya</item>
+        <item>Iskocya</item>
+        <item>Danimarka</item>
+        <item>Kolombiya</item>
+        <item>Cezayir</item>
+        <item>Fas</item>
+        <item>Misir</item>
+        <item>Estonya</item>
+        <item>Izlanda</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Bolivya</item>
+        <item>Suudi Arabistan</item>
+        <item>Ozbekistan</item>
+        <item>Kibris</item>
+        <item>Galler</item>
+        <item>Sirbistan</item>
+        <item>Kuzey Irlanda</item>
+        <item>Finlandiya</item>
+        <item>Endonezya</item>
+        <item>Azerbaycan</item>
+        <item>Ukrayna</item>
+        <item>Cin</item>
+        <item>Litvanya</item>
+        <item>Katar</item>
+        <item>Polonya</item>
+        <item>Tunus</item>
+        <item>Isvicre</item>
+        <item>Maceristan</item>
+        <item>Venezuela</item>
+        <item>Kamanya</item>
+        <item>Belarus</item>
+        <item>Sili</item>
+        <item>Diğer</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

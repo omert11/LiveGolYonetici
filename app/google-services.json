@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1060806170683",
+    "firebase_url": "https://livegol-6bb37.firebaseio.com",
+    "project_id": "livegol-6bb37",
+    "storage_bucket": "livegol-6bb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060806170683:android:332f30226e2f7ff2",
+        "android_client_info": {
+          "package_name": "ofy.livegol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060806170683-58c78hb1vo2j73es9elcgpth58druu20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzRImyI0EXupxxudPQKWe3CZuBOzZ9cE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060806170683:android:5f93e2e0ebea1189",
+        "android_client_info": {
+          "package_name": "ofy.livegolyonetici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060806170683-58c78hb1vo2j73es9elcgpth58druu20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzRImyI0EXupxxudPQKWe3CZuBOzZ9cE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
